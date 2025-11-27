@@ -1,0 +1,8 @@
+{
+  "rewrites": [
+    {
+      "source": "/api/raw/:data",
+      "destination": "/api/raw?data=:data"
+    }
+  ]
+}
