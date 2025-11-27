@@ -1,0 +1,5 @@
+{
+  "name": "SecureRaw - Roblox Script Host",
+  "description": "A secure, client-side raw script hosting tool with environment detection and password protection for Roblox scripts.",
+  "requestFramePermissions": []
+}
